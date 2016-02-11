@@ -1,0 +1,4 @@
+github "appsquickly/Typhoon" == 3.4.2
+github "Mantle/Mantle"
+github "drekka/KissXML" "develop"
+github "Automatic/AFNetworking" "carthage+2.6.0"
